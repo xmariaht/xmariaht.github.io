@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     font-family: "Rockwell","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 900px;
 }
 
 .topnav {
@@ -27,7 +27,7 @@ h6 {
 
 .lead {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .intro-header {
@@ -36,19 +36,20 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro2.png) no-repeat center center;
+    height: 700px; 
     background-size: cover;
+
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 10%;
 }
 
 .intro-message > h1 {
     margin: 0;
     text-shadow: 4px 3px 3px rgba(7,6,6,.6);
-    font-size: 2.5em;
+    font-size: 5em;
 }
 
 .intro-divider {
